@@ -1,0 +1,8 @@
+{
+  "mainnet": {
+    "GnosisSafeProxy": {
+      "address": "0x4855b6c0f7d02709F812bA33A2083FF57178B790",
+      "startBlock": 46822941
+    }
+  }
+}
